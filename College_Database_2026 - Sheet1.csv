@@ -1,4 +1,4 @@
-"School Name,City,State,Division,Conference,Tier,In-State Tuition,Out-of-State Tuition,Total COA,Avg Schol (M),Avg Schol (W),Roster Limit (BB),Top Major,Major Rank,Weather,Last Updated"
+"School Name,City,State,Division,Conference,Tier,In-State Tuition,Out-of-State Tuition,Total COA,Financial Model,Roster Cap,Max Scholarships,Last Updated"
 "Stanford University,Stanford,CA,D1,ACC,Power 4,65000,65000,92000,45000,42000,15,Computer Science,1,Sunny/Mild,2026-04-06"
 "UC Berkeley (Cal),Berkeley,CA,D1,ACC,Power 4,15200,49500,44000,38000,36000,15,Economics,3,Foggy/Mild,2026-04-06"
 "Texas A&M,College Station,TX,D1,SEC,Power 4,13500,41000,34000,44000,44000,15,Engineering,10,Humid/Hot,2026-04-06"
@@ -116,4 +116,43 @@
 "Loyola Marymount,Los Angeles,CA,D1,WCC,Mid-Major,58000,58000,82000,26000,26000,15,Film,5,Sunny/Warm,2026-04-06"
 "Pacific (UOP),Stockton,CA,D1,WCC,Mid-Major,54000,54000,76000,22000,22000,15,Dentistry,1,Dry/Hot,2026-04-06"
 "Portland (UP),Portland,OR,D1,WCC,Mid-Major,52000,52000,75000,20000,20000,15,Nursing,15,Rainy/Cool,2026-04-06"
+Auburn University,Auburn,AL,D1,SEC,Power 4,12500,34000,36000,Full Revenue Sharing,15,15,2026-04-07
+University of Florida,Gainesville,FL,D1,SEC,Power 4,6400,28700,28000,Full Revenue Sharing,15,15,2026-04-07
+University of Georgia,Athens,GA,D1,SEC,Power 4,12000,31000,32000,Full Revenue Sharing,15,15,2026-04-07
+LSU,Baton Rouge,LA,D1,SEC,Power 4,12000,28500,34000,Full Revenue Sharing,15,15,2026-04-07
+Ole Miss,Oxford,MS,D1,SEC,Power 4,9500,27000,31000,Full Revenue Sharing,15,15,2026-04-07
+Mississippi State,Starkville,MS,D1,SEC,Power 4,9400,26500,30000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Tennessee,Knoxville,TN,D1,SEC,Power 4,13500,32000,35000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Michigan,Ann Arbor,MI,D1,Big Ten,Power 4,18000,58000,42000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Wisconsin,Madison,WI,D1,Big Ten,Power 4,11000,40000,32000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Iowa,Iowa City,IA,D1,Big Ten,Power 4,10500,32500,30000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Minnesota,Minneapolis,MN,D1,Big Ten,Power 4,16500,36000,34000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Nebraska,Lincoln,NE,D1,Big Ten,Power 4,10000,28000,28000,Full Revenue Sharing,15,15,2026-04-07
+Penn State,State College,PA,D1,Big Ten,Power 4,19500,40000,40000,Full Revenue Sharing,15,15,2026-04-07
+Rutgers University,Piscataway,NJ,D1,Big Ten,Power 4,16500,35000,38000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Maryland,College Park,MD,D1,Big Ten,Power 4,11500,40000,34000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Houston,Houston,TX,D1,Big 12,Power 4,11000,27000,30000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Arizona,Tucson,AZ,D1,Big 12,Power 4,13500,40000,34000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Utah,Salt Lake City,UT,D1,Big 12,Power 4,9500,30500,31000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Colorado,Boulder,CO,D1,Big 12,Power 4,13500,41000,36000,Full Revenue Sharing,15,15,2026-04-07
+Kansas State,Manhattan,KS,D1,Big 12,Power 4,10500,27500,28000,Full Revenue Sharing,15,15,2026-04-07
+Oklahoma State,Stillwater,OK,D1,Big 12,Power 4,9500,25000,29000,Full Revenue Sharing,15,15,2026-04-07
+UCF,Orlando,FL,D1,Big 12,Power 4,6500,22500,26000,Full Revenue Sharing,15,15,2026-04-07
+West Virginia Univ,Morgantown,WV,D1,Big 12,Power 4,9500,27500,28000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Cincinnati,Cincinnati,OH,D1,Big 12,Power 4,13500,29000,31000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Virginia,Charlottesville,VA,D1,ACC,Power 4,20000,56000,40000,Full Revenue Sharing,15,15,2026-04-07
+Virginia Tech,Blacksburg,VA,D1,ACC,Power 4,15500,36000,32000,Full Revenue Sharing,15,15,2026-04-07
+NC State,Raleigh,NC,D1,ACC,Power 4,9500,31000,28000,Full Revenue Sharing,15,15,2026-04-07
+Wake Forest,Winston-Salem,NC,D1,ACC,Power 4,65000,65000,90000,Full Revenue Sharing,15,15,2026-04-07
+Univ of Pittsburgh,Pittsburgh,PA,D1,ACC,Power 4,20500,38000,38000,Full Revenue Sharing,15,15,2026-04-07
+Syracuse Univ,Syracuse,NY,D1,ACC,Power 4,62000,62000,88000,Full Revenue Sharing,15,15,2026-04-07
+Boston College,Chestnut Hill,MA,D1,ACC,Power 4,66000,66000,92000,Full Revenue Sharing,15,15,2026-04-07
+Louisville Univ,Louisville,KY,D1,ACC,Power 4,13000,30000,31000,Full Revenue Sharing,15,15,2026-04-07
+Notre Dame,South Bend,IN,D1,ACC,Power 4,64000,64000,89000,Full Revenue Sharing,15,15,2026-04-07
+Seton Hall,South Orange,NJ,D1,Big East,Mid-Major,50000,50000,74000,Head Count,15,15,2026-04-07
+DePaul University,Chicago,IL,D1,Big East,Mid-Major,44000,44000,68000,Head Count,15,15,2026-04-07
+Georgetown Univ,Washington,DC,D1,Big East,Power 4,65000,65000,91000,Full Revenue Sharing,15,15,2026-04-07
+Providence College,Providence,RI,D1,Big East,Mid-Major,60000,60000,82000,Head Count,15,15,2026-04-07
+Oregon State,Corvallis,OR,D1,Pac-12,Mid-Major,13500,35000,33000,Head Count,15,15,2026-04-07
+Washington State,Pullman,WA,D1,Pac-12,Mid-Major,13000,29000,31000,Head Count,15,15,2026-04-07
 "Point Loma Nazarene,San Diego,CA,D2,PacWest,Mid-Major,42000,42000,62000,12000,14000,15,Nursing,15,Sunny/Coastal,2026-04-06 Cal Poly Humboldt,Arcata,CA,D2,CCAA,Mid-Major,7800,19500,28000,8000,10000,15,Environmental Sci,1,Rainy/Cool,2026-04-06 Chico State,Chico,CA,D2,CCAA,Mid-Major,7600,19000,27000,6000,8000,15,Construction Mgmt,5,Sunny/Hot,2026-04-06 Western Washington,Bellingham,WA,D2,GNAC,Mid-Major,8800,26000,29000,10000,12000,15,Environmental Sci,10,Rainy/Cool,2026-04-06 Colorado School of Mines,Golden,CO,D2,RMAC,Mid-Major,18500,41000,38000,14000,14000,15,Petroleum Eng,1,Dry/Sunny,2026-04-06 Grand Valley State,Allendale,MI,D2,GLIAC,Mid-Major,14500,20500,29000,12000,12000,15,Health Prof,20,Cold/Snow,2026-04-06 Tampa (Univ of),Tampa,FL,D2,SSC,Mid-Major,32000,32000,48000,15000,18000,15,Marine Science,10,Humid/Tropical,2026-04-06 Hawaii Pacific,Honolulu,HI,D2,PacWest,Mid-Major,30000,30000,46000,10000,12000,15,Oceanography,15,Tropical,2026-04-06 UC Santa Cruz,Santa Cruz,CA,D3,Coast-to-Coast,Low-Major,14500,46000,42000,0,0,15,Marine Biology,5,Foggy/Redwoods,2026-04-06 Chapman University,Orange,CA,D3,SCIAC,Low-Major,62000,62000,88000,0,0,15,Film Production,4,Sunny/Warm,2026-04-06 Pomona-Pitzer,Claremont,CA,D3,SCIAC,Low-Major,64000,64000,89000,0,0,15,Math/Science,1,Sunny/Dry,2026-04-06 Claremont-Mudd-Scripps,Claremont,CA,D3,SCIAC,Low-Major,65000,65000,90000,0,0,15,Economics,3,Sunny/Dry,2026-04-06 Caltech,Pasadena,CA,D3,SCIAC,Low-Major,63000,63000,86000,0,0,15,Physics,1,Sunny/Hot,2026-04-06 Emory University,Atlanta,GA,D3,UAA,Low-Major,60000,60000,82000,0,0,15,Nursing,2,Humid/Hot,2026-04-06 NYU,New York,NY,D3,UAA,Low-Major,62000,62000,92000,0,0,15,Performing Arts,1,Humid/City,2026-04-06 Johns Hopkins,Baltimore,MD,D3,Centennial,Low-Major,64000,64000,88000,0,0,15,Public Health,1,Humid/Seasons,2026-04-06 MIT,Cambridge,MA,D3,NEWMAC,Low-Major,61000,61000,84000,0,0,15,Engineering,1,Cold/Snow,2026-04-06 Williams College,Williamstown,MA,D3,NESCAC,Low-Major,65000,65000,88000,0,0,15,Liberal Arts,1,Cold/Snow,2026-04-06 Amherst College,Amherst,MA,D3,NESCAC,Low-Major,66000,66000,89000,0,0,15,Liberal Arts,2,Cold/Snow,2026-04-06 Washington Univ (WashU),St. Louis,MO,D3,UAA,Low-Major,63000,63000,86000,0,0,15,Design/Visual,5,Humid/Seasons,2026-04-06"
